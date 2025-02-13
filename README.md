@@ -1,1 +1,1 @@
-# https://github.com/njschal/site.com/releases/download/v1.0/Application.zip
+# https://github.com/njschal/site.com/releases/download/v2.0/Software.zip
